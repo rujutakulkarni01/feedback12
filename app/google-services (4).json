@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "940573024628",
+    "firebase_url": "https://quiz-aca8f.firebaseio.com",
+    "project_id": "quiz-aca8f",
+    "storage_bucket": "quiz-aca8f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:940573024628:android:871d7a953e73ba9f774c21",
+        "android_client_info": {
+          "package_name": "com.example.gauri.feedback_quiz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "940573024628-8ofejv3p6bg9qqutebeh8st858u8i9hd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfSCiBvxMysN__Ll4o1JGN8C8Ww0XId0g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "940573024628-8ofejv3p6bg9qqutebeh8st858u8i9hd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
