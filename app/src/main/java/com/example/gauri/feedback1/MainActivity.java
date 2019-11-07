@@ -25,17 +25,12 @@ public class MainActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
-        namedata = findViewById(R.id.namedata);
-        emaildata = findViewById(R.id.emaildata);
-        messagedata = findViewById(R.id.messagedata);
-        ratingi = findViewById(R.id.ratingi);
-        ratingp = findViewById(R.id.ratingp);
+
         ratingi.setNumStars(5);
         ratingp.setNumStars(5);
         ratingi.setRating((float) 2.5);
         ratingp.setRating((float) 2.5);
-        send = findViewById(R.id.btn_send);
-        details = findViewById(R.id.btn_details);
+
         Firebase.setAndroidContext(this);
 
 
